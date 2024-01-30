@@ -1,0 +1,14 @@
+{
+   "name": "organizations/cbe86c1b-0fc4-408f-b572-5ba46b77c466/apiKeys/8cbed5b5-7598-4946-af3f-dbe7d600021c",
+   "principal": "d6b1e1e4-02d2-5eb2-95d6-739861ff7acb",
+   "principalType": "USER",
+   "publicKey": "-----BEGIN EC PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaxXnLHATz5PPZa6aSMQZxzCc0jUQ\nUpxdrMs2cZbMOY0CvBN1IwQNwmRfd21vrPNusZoDuKOnt81SzcKUWKWBOg==\n-----END EC PUBLIC KEY-----\n",
+   "privateKey": "-----BEGIN EC PRIVATE KEY-----\nMHcCAQEEIEdJUAERrWMfuQovC+L4QEjmyTQ4mjbatPw+KAG88K4AoAoGCCqGSM49\nAwEHoUQDQgAEaxXnLHATz5PPZa6aSMQZxzCc0jUQUpxdrMs2cZbMOY0CvBN1IwQN\nwmRfd21vrPNusZoDuKOnt81SzcKUWKWBOg==\n-----END EC PRIVATE KEY-----\n",
+   "createTime": "2024-01-11T05:43:06.201203864Z",
+   "projectId": "39f024bc-df87-4b09-87ab-ad3c3d6c33db",
+   "nickname": "cloud-project-2-key-20240111054258975Z",
+   "scopes": [],
+   "allowedIps": [],
+   "keyType": "GENERAL_KEY",
+   "enabled": true
+}
